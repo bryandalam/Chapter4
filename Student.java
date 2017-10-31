@@ -10,10 +10,9 @@ public class Student
    private int idNumber;
    private String name;
    private Student bestFriend;
+   private Pet pete;
+   private Hat g;
    
-   
-   public Student() {
-    }
     
    public Student (int num, String nm) {
        this.idNumber = num;
