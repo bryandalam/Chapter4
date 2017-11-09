@@ -12,6 +12,8 @@ public class TestNames
     joe.getLast();
     System.out.println(joe.firstMiddleLast());
     System.out.println(joe.lastFirstMiddle());
+    System.out.println(joe.initials());
+    System.out.println(joe.length());
     
     
         
