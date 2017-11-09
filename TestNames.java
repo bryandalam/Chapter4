@@ -11,6 +11,8 @@ public class TestNames
     joe.getMiddle();
     joe.getLast();
     System.out.println(joe.firstMiddleLast());
+    System.out.println(joe.lastFirstMiddle());
+    
     
         
         

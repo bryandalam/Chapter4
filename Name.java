@@ -26,7 +26,7 @@ public class Name
     public String firstMiddleLast() {
         return first + " " + middle + " " + last;
     }
-    public String lastMiddleFirst() {
+    public String lastFirstMiddle() {
         return last + ", " + first + " " + middle;
     }
     public boolean equals(Name otherName) {
